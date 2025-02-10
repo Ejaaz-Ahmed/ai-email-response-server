@@ -196,6 +196,7 @@ curl -X POST http://127.0.0.1:5000/generate-response \
     "response": "Bitcoin was created by Satoshi Nakamoto in 2009.",
     "fact_check": "✅ Verified Fact (Wikipedia): Bitcoin was invented in 2009..."
 }
+```
 
 # 🎯 Conclusion: My AI Email Server is Ready!
 
@@ -206,6 +207,18 @@ curl -X POST http://127.0.0.1:5000/generate-response \
 
 🚀 Now, the AI Email Response Server is fully functional! 🎯
 
-#Developed by Ejaz Ahmed 
+# Developed by Ejaz Ahmed 
+# Some snapshots of Output:
+# AI Email Response Server
+
+🚀 An intelligent AI-powered email response system with fact-checking.
+
+## 📌 Demo Screenshot
+![AI Email Response Demo](assets/demo_screenshot.png)
+
+## 🌟 Features
+- AI-generated email responses
+- Fact-checking with Wikipedia & Google
+- Interactive terminal chatbot & API support
 
 
