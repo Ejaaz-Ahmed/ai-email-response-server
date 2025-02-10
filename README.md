@@ -208,7 +208,6 @@ curl -X POST http://127.0.0.1:5000/generate-response \
 🚀 Now, the AI Email Response Server is fully functional! 🎯
 
 # Developed by Ejaz Ahmed 
-# Some snapshots of Output:
 # AI Email Response Server
 
 🚀 An intelligent AI-powered email response system with fact-checking.
