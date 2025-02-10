@@ -215,7 +215,7 @@ curl -X POST http://127.0.0.1:5000/generate-response \
 
 ## 📌 Demo Screenshot
 ![AI Email Response Demo](https://github.com/Ejaaz-Ahmed/ai-email-response-server/blob/main/images/image1.jpg)
-
+![AI Email Response Demo](https://github.com/Ejaaz-Ahmed/ai-email-response-server/blob/main/images/image2.jpg)
 ## 🌟 Features
 - AI-generated email responses
 - Fact-checking with Wikipedia & Google
